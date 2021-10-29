@@ -1,0 +1,3 @@
+"D:\JetBrains2019\CLion 2019.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\Loading_input_calculation_and_output.dir/objects.a
+D:\Katya\MinGW\mingw32\bin\ar.exe cr CMakeFiles\Loading_input_calculation_and_output.dir/objects.a @CMakeFiles\Loading_input_calculation_and_output.dir\objects1.rsp
+D:\Katya\MinGW\mingw32\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\Loading_input_calculation_and_output.dir/objects.a -Wl,--no-whole-archive  -o Loading_input_calculation_and_output.exe -Wl,--out-implib,libLoading_input_calculation_and_output.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Loading_input_calculation_and_output.dir\linklibs.rsp

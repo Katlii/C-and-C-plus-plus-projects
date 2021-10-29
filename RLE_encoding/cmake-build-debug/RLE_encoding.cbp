@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="RLE_encoding"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/CLionProjects/RLE_encoding/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Katya/MinGW/mingw32/bin/mingw32-make.exe -f &quot;D:/CLionProjects/RLE_encoding/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/Katya/MinGW/mingw32/bin/mingw32-make.exe -f &quot;D:/CLionProjects/RLE_encoding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Katya/MinGW/mingw32/bin/mingw32-make.exe -f &quot;D:/CLionProjects/RLE_encoding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Katya/MinGW/mingw32/bin/mingw32-make.exe -f &quot;D:/CLionProjects/RLE_encoding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="RLE_encoding">
+				<Option output="D:/CLionProjects/RLE_encoding/cmake-build-debug/RLE_encoding.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CLionProjects/RLE_encoding/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Katya/MinGW/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/Katya/MinGW/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/Katya/MinGW/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Katya/MinGW/mingw32/bin/mingw32-make.exe -f &quot;D:/CLionProjects/RLE_encoding/cmake-build-debug/Makefile&quot;  VERBOSE=1 RLE_encoding"/>
+					<CompileFile command="D:/Katya/MinGW/mingw32/bin/mingw32-make.exe -f &quot;D:/CLionProjects/RLE_encoding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Katya/MinGW/mingw32/bin/mingw32-make.exe -f &quot;D:/CLionProjects/RLE_encoding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Katya/MinGW/mingw32/bin/mingw32-make.exe -f &quot;D:/CLionProjects/RLE_encoding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="RLE_encoding/fast">
+				<Option output="D:/CLionProjects/RLE_encoding/cmake-build-debug/RLE_encoding.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CLionProjects/RLE_encoding/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Katya/MinGW/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/Katya/MinGW/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/Katya/MinGW/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Katya/MinGW/mingw32/bin/mingw32-make.exe -f &quot;D:/CLionProjects/RLE_encoding/cmake-build-debug/Makefile&quot;  VERBOSE=1 RLE_encoding/fast"/>
+					<CompileFile command="D:/Katya/MinGW/mingw32/bin/mingw32-make.exe -f &quot;D:/CLionProjects/RLE_encoding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Katya/MinGW/mingw32/bin/mingw32-make.exe -f &quot;D:/CLionProjects/RLE_encoding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Katya/MinGW/mingw32/bin/mingw32-make.exe -f &quot;D:/CLionProjects/RLE_encoding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/CLionProjects/RLE_encoding/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Katya/MinGW/mingw32/bin/mingw32-make.exe -f &quot;D:/CLionProjects/RLE_encoding/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/Katya/MinGW/mingw32/bin/mingw32-make.exe -f &quot;D:/CLionProjects/RLE_encoding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Katya/MinGW/mingw32/bin/mingw32-make.exe -f &quot;D:/CLionProjects/RLE_encoding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Katya/MinGW/mingw32/bin/mingw32-make.exe -f &quot;D:/CLionProjects/RLE_encoding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/CLionProjects/RLE_encoding/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Katya/MinGW/mingw32/bin/mingw32-make.exe -f &quot;D:/CLionProjects/RLE_encoding/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/Katya/MinGW/mingw32/bin/mingw32-make.exe -f &quot;D:/CLionProjects/RLE_encoding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Katya/MinGW/mingw32/bin/mingw32-make.exe -f &quot;D:/CLionProjects/RLE_encoding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Katya/MinGW/mingw32/bin/mingw32-make.exe -f &quot;D:/CLionProjects/RLE_encoding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/CLionProjects/RLE_encoding/main.c">
+			<Option target="RLE_encoding"/>
+		</Unit>
+		<Unit filename="D:/CLionProjects/RLE_encoding/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
