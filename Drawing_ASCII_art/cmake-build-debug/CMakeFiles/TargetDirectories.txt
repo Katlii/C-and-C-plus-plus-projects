@@ -1,0 +1,3 @@
+D:/CLionProjects/Drawing_ASCII_art/cmake-build-debug/CMakeFiles/Drawing_ASCII_art.dir
+D:/CLionProjects/Drawing_ASCII_art/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLionProjects/Drawing_ASCII_art/cmake-build-debug/CMakeFiles/rebuild_cache.dir
